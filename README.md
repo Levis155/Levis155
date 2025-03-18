@@ -31,5 +31,7 @@ Currently a trainee at [Teach2Give](https://teach2give.com/), looking to upskill
 <a href="https://www.linkedin.com/in/levis-mbui" target="_blank"><img src="images\twitter.png" alt="Linkdin logo" width="50px"></a>
 <a href="https://www.linkedin.com/in/levis-mbui" target="_blank"><img src="images\instagram.png" alt="Linkdin logo" width="50px"></a></p>
 
+[![Levis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levis155)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
